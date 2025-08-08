@@ -10,5 +10,6 @@
 <p>🖐 Welcome to the bot with mini-games in the form of animated emoji - 🎲🎯⚽️🏀🎰🎳.</p>
 <p>🍀 &mdash; Try your luck<br />⭐️ &mdash; Earn points<br />🎁 &mdash; Get bonuses<br />💼 &mdash; Complete tasks<br />👫 &mdash; Invite friends</p>
 
-<img width="396" height="384" alt="image" src="https://github.com/user-attachments/assets/2f2d3a8f-4865-4f86-b7f8-2ceabe431999" /> and <img width="842" height="608" alt="image" src="https://github.com/user-attachments/assets/3426cad9-fec9-4d5c-9227-2896c14f06f4" />
+<img width="396" height="384" alt="image" src="https://github.com/user-attachments/assets/2f2d3a8f-4865-4f86-b7f8-2ceabe431999" />
+<img width="842" height="608" alt="image" src="https://github.com/user-attachments/assets/3426cad9-fec9-4d5c-9227-2896c14f06f4" />
 
