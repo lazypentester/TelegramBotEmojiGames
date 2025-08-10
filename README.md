@@ -17,9 +17,9 @@
 ## ✏️ Description
 
 <ul>
-  <li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400;">🎁 Games</span></li>
+  <li style="font-weight: 400;" aria-level="3"><span style="font-weight: 400;">🎁 Games</span></li>
   <p>🎲 &mdash; Dice<br />🎯 &mdash; Darts<br />⚽️ &mdash; Football<br />🏀 &mdash; Basketball<br />🎰 &mdash; Slots<br />🎳 &mdash; Bowling</p>
-  <li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400;">⚙️ Modes</span></li>
+  <li style="font-weight: 400;" aria-level="3"><span style="font-weight: 400;">⚙️ Modes</span></li>
   <p>👤 &mdash; Game with bot<br />👥🔐 &mdash; Game with friends<br />👥 &mdash; Game with other players</p>
   <li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400;">Parallel telegram updates processing</span></li>
   <li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400;">Telegram Stars &amp; WebMoney payments</span></li>
