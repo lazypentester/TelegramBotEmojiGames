@@ -1,7 +1,7 @@
 # Telegram Bot Emoji Games 🚀
 
 <p>
-  <span style="font-weight: 400;">🤖 <strong>Username</strong>: @fastMiniGamesBot
+  <span style="font-weight: 400;">🌐 <strong>Username</strong>: @fastMiniGamesBot
     <br />🔗 <strong>Link</strong>: https://t.me/fastMiniGamesBot</span>
 </p>
 
