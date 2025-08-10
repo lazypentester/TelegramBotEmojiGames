@@ -26,15 +26,25 @@
   <li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400;">🎳 &mdash; Bowling</span></li>
 </ul>
 
-<p>⚙️ Modes<</p>
+<p>⚙️ Modes</p>
 <ul>
   <li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400;">👤 &mdash; Game with bot</span></li>
   <li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400;">👥🔐 &mdash; Game with friends</span></li>
   <li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400;">👥 &mdash; Game with other players</span></li>
 </ul>
 
-<p>🖐 Welcome to the bot with mini-games in the form of animated emoji - 🎲🎯⚽️🏀🎰🎳.</p>
-<p>🍀 &mdash; Try your luck<br />⭐️ &mdash; Earn points<br />🎁 &mdash; Get bonuses<br />💼 &mdash; Complete tasks<br />👫 &mdash; Invite friends</p>
+<p>⚡️ Mechanics<</p>
+<ul>
+  <li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400;">⭐️ Points system &mdash; Play and earn points</span></li>
+  <li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400;">🎁 Game bonuses &mdash; Activate and get a random game bonus and get even more points</span></li>
+  <li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400;">🤝 Referral system &mdash; Invite friends, get bonuses, and also extra points for each game of your friend</span></li>
+  <li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400;">💼 Tasks &mdash; Get rewards for completing tasks</span></li>
+  <li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400;">🎟 Promo codes &mdash; Search and activate promo codes to get extra points and bonuses</span></li>
+  <li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400;">✔️ CheckIn &mdash; Game bonuses and points for visiting the bot every 24 hours</span></li>
+  <li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400;">🔝 Top players &mdash; List of top 10 players by different parameters</span></li>
+  <li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400;">📊 Statistics &mdash; View your and general statistics</span></li>
+  <li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400;">🌏 Multilingual &mdash; Support multiple languages</span></li>
+</ul>
 
 ## 🛠 Tech Stack
 
