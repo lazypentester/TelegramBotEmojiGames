@@ -16,7 +16,7 @@
 
 ## ✏️ Description
 
-<p>🎮 Games</p>
+**🎮 GAMES**
 <ul>
   <li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400;">🎲 &mdash; Dice</span></li>
   <li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400;">🎯 &mdash; Darts</span></li>
@@ -26,14 +26,14 @@
   <li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400;">🎳 &mdash; Bowling</span></li>
 </ul>
 
-<p>⚙️ Modes</p>
+**⚙️ Modes**
 <ul>
   <li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400;">👤 &mdash; Game with bot</span></li>
   <li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400;">👥🔐 &mdash; Game with friends</span></li>
   <li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400;">👥 &mdash; Game with other players</span></li>
 </ul>
 
-<p>⚡️ Mechanics<</p>
+**⚡️ Mechanics**
 <ul>
   <li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400;">⭐️ Points system &mdash; Play and earn points</span></li>
   <li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400;">🎁 Game bonuses &mdash; Activate and get a random game bonus and get even more points</span></li>
