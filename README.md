@@ -16,7 +16,7 @@
 
 ## ✏️ Description
 
-<p>🎁 Games</p>
+<p>🎮 Games</p>
 <ul>
   <li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400;">🎲 &mdash; Dice</span></li>
   <li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400;">🎯 &mdash; Darts</span></li>
@@ -26,13 +26,11 @@
   <li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400;">🎳 &mdash; Bowling</span></li>
 </ul>
 
+<p>⚙️ Modes<</p>
 <ul>
-  <li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400;">🎁 Games</span></li>
-  <p>🎲 &mdash; Dice<br />🎯 &mdash; Darts<br />⚽️ &mdash; Football<br />🏀 &mdash; Basketball<br />🎰 &mdash; Slots<br />🎳 &mdash; Bowling</p>
-  <li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400;">⚙️ Modes</span></li>
-  <p>👤 &mdash; Game with bot<br />👥🔐 &mdash; Game with friends<br />👥 &mdash; Game with other players</p>
-  <li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400;">Parallel telegram updates processing</span></li>
-  <li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400;">Telegram Stars &amp; WebMoney payments</span></li>
+  <li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400;">👤 &mdash; Game with bot</span></li>
+  <li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400;">👥🔐 &mdash; Game with friends</span></li>
+  <li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400;">👥 &mdash; Game with other players</span></li>
 </ul>
 
 <p>🖐 Welcome to the bot with mini-games in the form of animated emoji - 🎲🎯⚽️🏀🎰🎳.</p>
