@@ -16,7 +16,7 @@
 
 ## ✏️ Description
 
-**🎮 GAMES**
+**🎮 Games**
 <ul>
   <li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400;">🎲 &mdash; Dice</span></li>
   <li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400;">🎯 &mdash; Darts</span></li>
