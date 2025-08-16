@@ -50,6 +50,8 @@
   <li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400;">✔️ CheckIn &mdash; Game bonuses and points for visiting the bot every 24 hours</span></li>
   <li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400;">🔝 Top players &mdash; List of top 10 players by different parameters</span></li>
   <li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400;">📊 Statistics &mdash; View your and general statistics</span></li>
+  <li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400;">💸 Donations and purchases</span></li>
+  <li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400;">⛔️ Spam filter</span></li>
   <li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400;">🌏 Multilingual &mdash; Support multiple languages</span></li>
 </ul>
 
