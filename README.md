@@ -11,6 +11,13 @@
   <li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400;">1k+ active users via Redis-backed sessions</span></li>
   <li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400;">Multiplayer game rooms using background timer tasks</span></li>
   <li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400;">Parallel telegram updates processing</span></li>
+  <li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400;">Channel based task queues</span></li>
+  <li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400;">Local storage of cached images telegram</span></li>
+  <li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400;">Admin &amp; moderator panels using roles</span></li>
+  <li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400;">User feedback tools</span></li>
+  <li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400;">Analytics and statistics of the bot</span></li>
+  <li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400;">In-memory deep linking service based on deterministic GUID using "SHA256" caching algorithm for input data and "Base64" encoding method for transforming ready GUID for adding to URL</span></li>
+  <li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400;">Safely stop the bot while waiting for all task queues to complete</span></li>
   <li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400;">Telegram Stars &amp; WebMoney payments</span></li>
 </ul>
 
