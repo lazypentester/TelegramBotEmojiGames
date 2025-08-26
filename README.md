@@ -58,7 +58,9 @@
 ## 🛠 Tech Stack
 
 **Client:** C#
+
 **Database:** SQL Server
+
 **Cache:** Redis Cache
 
 ## Demo
