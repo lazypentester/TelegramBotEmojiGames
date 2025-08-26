@@ -63,6 +63,8 @@
 
 **Cache:** Redis Cache
 
+**Reverse Proxy Server:** NGINX
+
 ## Demo
 
 <img width="396" height="384" alt="image" src="https://github.com/user-attachments/assets/2f2d3a8f-4865-4f86-b7f8-2ceabe431999" />
