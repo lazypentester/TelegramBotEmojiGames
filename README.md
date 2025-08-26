@@ -1,3 +1,5 @@
+![Снимок экрана 2025-08-26 225533](https://github.com/user-attachments/assets/52532473-c16b-4aaf-85d0-68dd7e193416)
+
 # Telegram Bot Emoji Games 🚀
 
 <p>
